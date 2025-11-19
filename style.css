@@ -1,5 +1,5 @@
 .caixa {
-    background-color: aqua;
+    background-color: cyan;
     
     border-style: solid;
     padding: 25px;
@@ -7,7 +7,7 @@
 
 .bolinha {
     display: inline-block;
-    background-color: magenta;
+    background-color: rgb(255, 103, 255);
     width: 100px;
     height: 100px;
     border-style: solid;
